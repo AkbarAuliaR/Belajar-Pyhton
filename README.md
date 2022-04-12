@@ -1,2 +1,2 @@
-# latihan_pembelajaran-mesin1
-Latihan Pembelajaran mesin1
+# Pembeljaran_mesin
+Pembelajaran_mesin
